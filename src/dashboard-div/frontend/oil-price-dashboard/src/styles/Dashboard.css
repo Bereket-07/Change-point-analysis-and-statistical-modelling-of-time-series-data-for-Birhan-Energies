@@ -1,0 +1,9 @@
+/* src/styles/Dashboard.css */
+
+.metric-card {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 100px;
+    text-align: center;
+}
